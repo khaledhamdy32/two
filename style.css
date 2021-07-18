@@ -1,0 +1,71 @@
+*{
+    margin:  0px;
+   padding: 0px;
+}
+
+.home{
+    min-height: 100vh;
+    background-image: url(./pics/chandra-sekhar-poudyal-shiva.jpg);
+    background-size: contain;
+    text-align: center;
+}
+.home img {
+margin-top: 60px;
+margin-bottom: 60px;
+height: 70%;
+
+}
+h2{
+    font-size: 50px;
+    font-family:  'Dancing Script', cursive;
+    color: #2b81b2;
+}
+p{
+    font-size: 30px;
+    font-family:'Dancing Script', cursive;
+color: #a7060f;
+
+}
+button{
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+
+.about{
+    height: 500px;
+    background-image : url(./pics/ina-wong-league-of-legends-warden-quinn-uplox.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-color: aquamarine;
+
+
+}
+.gallery{
+
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.four{
+ 
+    width: 24%;
+    display: inline-block;
+    text-align: center;
+}
+.four img{
+    border-radius: 50%;
+    max-width: 100%;
+    max-height: 100%;
+}
+.line{
+    width: 50px;
+    height: 3px;
+    margin: auto;
+    background-color: brown;
+}
+
+
+
